@@ -35,7 +35,6 @@ if(mysqli_num_rows($result3) == 1)
  
  
  
- 
  function idk($username, $password){
  
  
